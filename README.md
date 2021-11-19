@@ -18,5 +18,17 @@ The resulting vote count for helpful reviews came out to 121,360.
 
 The count of five star reviews, count of paid five star reviews and nonpaid reviews were counted from the helpful vote filtered vine data frame. Their results are shown above.
 
+![image](https://user-images.githubusercontent.com/85713568/142549208-81597536-991d-455d-9454-12c740043866.png)
+
+The percentage calculated are above.
+
+
+## Summary 
+
+In summary from the analysis it does not seem like there is much analysis bias for reviews in the Vine program. Although these reviews were paid for only 220 of the 74,690 five star reviews came from Paid reviewers, whereas 74,440 came from non paid reviewers. On a percentage scale it was .295% and 99.705% respectively. 
+
+Another analysis I would perform would be counting the vine and non vine reviews for each star rating along with the average star rating amongst the vine and non vine groups. 
+
+
 
 
